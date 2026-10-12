@@ -23,6 +23,22 @@ Designing experiments, testing hypotheses, evaluating results, and documenting l
 ### 05. Research Notes and Ideas
 Recording research questions, preliminary observations, technical ideas, and potential directions for future studies.
 
+## Research Projects
+
+This section provides an overview of my ongoing and completed research projects.
+
+### 01. Preparing Students for the AI-Driven Labor Market
+
+**Research Area:** Artificial Intelligence, Education, and Future of Work
+
+**Objective:** Explore how AI is transforming career opportunities, essential skills, and learning pathways across academic fields.
+
+**Status:** Research planning
+
+[Explore Research](research-projects/ai-driven-labor-market/)
+
+Additional research projects will be listed here as they develop.
+
 ## Research Approach
 
 Research activities in this repository aim to follow these principles:
@@ -47,9 +63,11 @@ Where applicable, each research project should document:
 
 ## Current and Future Work
 
-This repository will evolve as research questions are developed, literature is reviewed, and experiments are conducted.
+Research projects may cover different technical and scientific domains.
 
-Individual research projects may receive dedicated repositories when their scope, code, datasets, or documentation justify independent development.
+Each project will have its own directory, keeping its research questions, methodology, analysis, results, and references separate from other projects.
+
+Projects that grow in scope or require independent development may receive dedicated repositories.
 
 ---
 
