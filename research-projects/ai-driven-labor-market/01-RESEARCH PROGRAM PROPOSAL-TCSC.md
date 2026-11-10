@@ -69,7 +69,7 @@ To examine future careers and skills in an AI-driven labor market and propose fl
 
 ## **Research Design (Methodology)**
 
-The study will use a **secondary mixed-methods research design**.
+The study will use a **primary and secondary mixed-methods research design**.
 
 It will combine:
 
@@ -80,7 +80,6 @@ It will combine:
 * qualitative document analysis;  
 * classification of occupations and skills.
 
-No primary data collection is planned for the first study.
 
 ## **Main Sources**
 
